@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "Python-based personal assistant for automation and system control"<br>👯 I’m looking to collaborate on "Python and PHP tools, automation scripts, and desktop utilities"<br>🤝 I’m looking for help with "Optimizing long-running python apps and clean app architecture"<br>🌱 I’m currently learning "Advanced python, PHP, frontend stacks, .NET Framework and ethical hacking basics"<br>💬 Ask me about "Python, PHP, Windows automation, APIs, and networking"<br>⚡ Fun fact "I don't trust code I can't explain"
+🔭 I’m currently working on "PHP-based School Management System"<br>👯 I’m looking to collaborate on "Python and PHP tools, automation scripts, and desktop utilities"<br>🤝 I’m looking for help with "Optimizing long-running python apps and clean app architecture"<br>🌱 I’m currently learning "Advanced python, PHP, frontend stacks, .NET Framework and ethical hacking basics"<br>💬 Ask me about "Python, PHP, Windows automation, APIs, and networking"<br>⚡ Fun fact "I don't trust code I can't explain"
 
 
 ## 🌐 Socials:
